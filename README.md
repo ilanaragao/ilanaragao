@@ -38,14 +38,11 @@
   <br/>
   <b>Nota:</b> Os idiomas mais usados são apenas uma métrica da composição dos meus códigos públicos e não refletem minha experiência ou o nível de habilidade.
 
-
 <br/>
 <br/>
 
 <img alt="Ilan Aragão's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ilanaragao&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-<br/>
-<br/>
 
 ## 🔎 Conecte-se comigo:
 <p align="left">
