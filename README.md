@@ -58,5 +58,7 @@
 </p>
 
 ## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=ilanaragao">
+</a>
 <img src="https://img.shields.io/github/followers/ilanaragao?label=Followers&style=social" alt="GitHub Badge"></a>
