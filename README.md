@@ -14,7 +14,7 @@
 
 - 📫 Você pode me contatar em **ilan_aragao@hotmail.com**
 
-- ⚡ Curiosidades: **Metade gamer, metade apaixonado por academia, e 100% família.**
+- ⚡ Curiosidades: **Metade gamer, metade rato de academia, e 100% família.**
 
 ## 🚀 Linguagens e Frameworks:
 
