@@ -33,10 +33,10 @@
 ## 📊 Meu Status Github
 
   <br/>
-    <img alt="Ilan Aragão Github Stats" src="https://github-readme-stats.vercel.app/api?username=ilanaragao&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <img alt="Ilan Aragão Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilanaragao&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <img alt="Ilan Aragão's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ilanaragao&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <img alt="Ilan Aragão's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilanaragao&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <b>Nota:</b> Os principais idiomas são apenas uma métrica da composição dos meus códigos públicos e não refletem minha experiência ou o nível de habilidade.
 
 
 <br/>
