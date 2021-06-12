@@ -16,7 +16,7 @@
 
 - ⚡ Curiosidades: **Metade gamer, metade rato de academia, e 100% família**.
 
-## 🚀 Linguagens e Frameworks:
+## 🚀 Linguagens e Frameworks
 
 <p align="left"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
@@ -45,7 +45,7 @@
 <img alt="Ilan Aragão's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ilanaragao&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 
-## 🔎 Conecte-se comigo:
+## 🔎 Conecte-se comigo
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/ilanaragao/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
