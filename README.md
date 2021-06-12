@@ -1,20 +1,20 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Olá <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, eu sou o Ilan.</h1>
-<h3 align="center">Brasileiro e apaixonado por Desenvolvimento Web.</h3>
+<h1 align="center">Olá <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, eu sou o Ilan</h1>
+<h3 align="center">Brasileiro e apaixonado por Desenvolvimento Web</h3>
 
 
 ## 🙋‍♂️ Sobre mim
 
 - 🔭 Atualmente estudante da @betrybe;
 
-- 🌱 Aprendendo sobre **HTML, CSS, JavaScript entre outros**;
+- 🌱 Aprendendo sobre **HTML, CSS, JavaScript, entre outros**;
 
 - 👨‍💻 Alguns dos meus projetos estão aqui no **[Meu Repositório](https://github.com/ilanaragao?tab=repositories)**;
 
 - 📫 Você pode me contatar em **ilan_aragao@hotmail.com**;
 
-- ⚡ Curiosidades: **Metade gamer, metade rato de academia, e 100% família**.
+- ⚡ Curiosidades: **Metade gamer, metade rato de academia e 100% família**.
 
 ## 🚀 Linguagens e Frameworks
 
