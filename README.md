@@ -10,7 +10,7 @@
 
 - 🌱 Aprendendo sobre **HTML, CSS, JavaScript entre outros**
 
-- 👨‍💻 Todos os meus projetos estão aqui no **[Meu GitHub](https://github.com/ilanaragao)**
+- 👨‍💻 Alguns dos meus projetos estão aqui no **[Meu Repositório](https://github.com/ilanaragao?tab=repositories)**
 
 - 📫 Você pode me contatar em **ilan_aragao@hotmail.com**
 
