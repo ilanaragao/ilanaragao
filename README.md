@@ -8,13 +8,13 @@
 
 - 🔭 Atualmente estudante da @betrybe;
 
-- 🌱 Aprendendo sobre **HTML, CSS, JavaScript entre outros**
+- 🌱 Aprendendo sobre **HTML, CSS, JavaScript entre outros**;
 
-- 👨‍💻 Alguns dos meus projetos estão aqui no **[Meu Repositório](https://github.com/ilanaragao?tab=repositories)**
+- 👨‍💻 Alguns dos meus projetos estão aqui no **[Meu Repositório](https://github.com/ilanaragao?tab=repositories)**;
 
-- 📫 Você pode me contatar em **ilan_aragao@hotmail.com**
+- 📫 Você pode me contatar em **ilan_aragao@hotmail.com**;
 
-- ⚡ Curiosidades: **Metade gamer, metade rato de academia, e 100% família.**
+- ⚡ Curiosidades: **Metade gamer, metade rato de academia, e 100% família**.
 
 ## 🚀 Linguagens e Frameworks:
 
