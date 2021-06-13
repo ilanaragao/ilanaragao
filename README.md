@@ -42,8 +42,10 @@
 <br/>
 <br/>
 
-<img alt="Ilan Aragão's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ilanaragao&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
+<a href="https://github.com/ellen2121">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ellen2121&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellen2121&layout=compact&langs_count=16&theme=dracula"/>
+  <img align="right" width="120" height="120" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif">
 
 ## 🔎 Conecte-se comigo
 <p align="left">
