@@ -42,9 +42,7 @@
 <br/>
 <br/>
 
-<img alt="Ilan Aragão's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ilanaragao&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 ![Snake animation](https://github.com/ilanaragao/ilanaragao/blob/output/github-contribution-grid-snake.svg)
-
 
 ## 🔎 Conecte-se comigo
 <p align="left">
