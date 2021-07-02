@@ -14,9 +14,9 @@
 
 - 📫 Você pode me contatar em **ilan_aragao@hotmail.com**;
 
-- ⚡ Curiosidades: **Metade gamer, metade rato de academia e 100% família**.
+- ⚡ Curiosidades: **metade gamer, metade rato de academia e <ins>100% família</ins>**.
 
-## 🚀 Linguagens e Frameworks
+## 🚀 Linguagens e Frameworks (loading ..)
 
 <p align="left"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
