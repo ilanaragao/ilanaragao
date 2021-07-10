@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ Sobre mim
 
-- 🔭 Atualmente estudante da @betrybe;
+- 🔭 Atualmente estudante da **[Trybe](https://www.betrybe.com/)**;
 
 - 🌱 Aprendendo sobre **HTML, CSS, JavaScript, entre outros**;
 
