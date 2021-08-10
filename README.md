@@ -1,7 +1,11 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="23"> Bem vindo
 
-<h1 align="center">Olá <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, eu sou o Ilan</h1>
-<h3 align="center">Brasileiro e apaixonado por Desenvolvimento Web</h3>
+<div align="center">
+  <a href="https://ilanaragao.github.io/">
+    <img alt="Typing dynamically generated" src="https://readme-typing-svg.herokuapp.com/?lines=Eu%20sou%20o%20Ilan%20Aragão,;brasileiro,;e%20Web%20Developer%20student.&center=true&width=380&height=90"/>
+  </a>
+  <img align="right" src="https://media.giphy.com/media/lnaoFgGrDHnivdu5Bc/giphy.gif" width="100">
+</div>
 
 ## 🙋‍♂️ Sobre mim
 
