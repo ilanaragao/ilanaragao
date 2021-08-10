@@ -1,11 +1,8 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="23"> Bem vindo
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<div align="center">
-  <a href="https://ilanaragao.github.io/">
-    <img alt="Typing dynamically generated" src="https://readme-typing-svg.herokuapp.com/?lines=Eu%20sou%20o%20Ilan%20Aragão,;brasileiro,;e%20Web%20Developer%20student.&center=true&width=380&height=80"/>
-  </a>
-  <img align="right" src="https://media.giphy.com/media/lnaoFgGrDHnivdu5Bc/giphy.gif" width="90">
-</div>
+<h2 align="center">- Hello World -</h2>
+<hr>
+<h2 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> Eu sou o Ilan Aragão <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"></h2>
 
 ## 🙋‍♂️ Sobre mim
 
