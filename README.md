@@ -2,7 +2,7 @@
 
 <h3 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> Bem vindo! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"></h3>
 <div align="center">
-  <img alt="Typing dynamically generated" src="https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=22&lines=Eu%20sou%20o%20Ilan%20Aragão&center=true&width=300&height=80" />
+  <img alt="Typing dynamically generated" src="https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=22&lines=Eu%20sou%20o%20Ilan%20Aragão&center=true&width=300&height=60" />
 </div>
 
 ## 🙋‍♂️ Sobre mim
