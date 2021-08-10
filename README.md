@@ -2,9 +2,9 @@
 
 <div align="center">
   <a href="https://ilanaragao.github.io/">
-    <img alt="Typing dynamically generated" src="https://readme-typing-svg.herokuapp.com/?lines=Eu%20sou%20o%20Ilan%20Aragão,;brasileiro,;e%20Web%20Developer%20student.&center=true&width=380&height=50"/>
+    <img alt="Typing dynamically generated" src="https://readme-typing-svg.herokuapp.com/?lines=Eu%20sou%20o%20Ilan%20Aragão,;brasileiro,;e%20Web%20Developer%20student.&center=true&width=380&height=80"/>
   </a>
-  <img align="right" src="https://media.giphy.com/media/lnaoFgGrDHnivdu5Bc/giphy.gif" width="100">
+  <img align="right" src="https://media.giphy.com/media/lnaoFgGrDHnivdu5Bc/giphy.gif" width="90">
 </div>
 
 ## 🙋‍♂️ Sobre mim
