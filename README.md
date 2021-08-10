@@ -4,6 +4,7 @@
 <div align="center">
   <a href="https://ilanaragao.github.io/">
   <img src="https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=22&lines=Eu%20sou%20o%20Ilan%20Aragão&center=true&width=300&height=55" />
+  </a>
 </div>
 
 ## 🙋‍♂️ Sobre mim
