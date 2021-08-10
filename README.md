@@ -53,6 +53,8 @@
 <a href = "https://twitter.com/roadtotalent"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/ilanaragao/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/channel/UCuhR7Kms0FGmbOiWdDQ0IAA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "https://www.buymeacoffee.com/ilanaragao"><img src="img/buymeacoffee_logo_icon_170431.png"/></a>
+
 
 </p>
 
