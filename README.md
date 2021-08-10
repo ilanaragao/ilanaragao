@@ -1,7 +1,9 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h3 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> Bem vindo! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"></h3>
-<h3 align="center">Eu sou o Ilan Aragão</h3>
+<div align="center">
+    <img alt="Typing dynamically generated" src="https://readme-typing-svg.herokuapp.com/?lines=Eu%20sou%20o%20Ilan%20Aragão&center=true&width=380&height=45" />
+</div>
 
 ## 🙋‍♂️ Sobre mim
 
