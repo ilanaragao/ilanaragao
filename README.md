@@ -1,7 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h2 align="center">- Hello World -</h2>
-<hr>
+<h2 align="center">- Hello World -</h3>
 <h2 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> Eu sou o Ilan Aragão <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"></h2>
 
 ## 🙋‍♂️ Sobre mim
