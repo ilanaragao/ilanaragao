@@ -28,7 +28,7 @@
     <a href="https://www.w3schools.com/css/"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a style="padding-right:3px;" href="https://www.mysql.com/"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+    <a style="padding-right:8px;" href="https://www.mysql.com/"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://git-scm.com/"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://expressjs.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
