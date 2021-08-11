@@ -2,7 +2,7 @@
 
 <h3 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> Bem vindo! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"></h3>
 <div align="center">
-  <a href="https://ilanaragao.github.io/">
+  <a href="https://ilanaragao.github.io/" target="_blank">
   <img src="https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=22&lines=Eu%20sou%20o%20Ilan%20Aragão&center=true&width=300&height=55" />
   </a>
 </div>
@@ -49,17 +49,17 @@
 ## 🔎 Conecte-se comigo
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/ilanaragao/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/roadtotalent"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/ilanaragao/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UCuhR7Kms0FGmbOiWdDQ0IAA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-<a href = "https://www.buymeacoffee.com/ilanaragao"><img src="img/buymeacoffee_logo_icon_170431.png"/></a>
+<a href = "https://www.linkedin.com/in/ilanaragao/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/roadtotalent" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/ilanaragao/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.youtube.com/channel/UCuhR7Kms0FGmbOiWdDQ0IAA" target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "https://www.buymeacoffee.com/ilanaragao" target="_blank"><img src="img/buymeacoffee_logo_icon_170431.png"/></a>
 
 
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter" >
     <img src="https://komarev.com/ghpvc/?username=ilanaragao">
 </a>
 <img src="https://img.shields.io/github/followers/ilanaragao?label=Followers&style=social" alt="GitHub Badge"></a>
