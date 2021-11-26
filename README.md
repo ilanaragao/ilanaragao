@@ -11,7 +11,7 @@
 
 - 🔭 Atualmente estudante da **[Trybe](https://www.betrybe.com/)**;
 
-- 🌱 Aprendendo sobre **HTML, CSS, JavaScript, entre outros**;
+- 🌱 Aprendendo sobre <ins>Desenvolvimento Web</ins>, com foco no **back-end**;
 
 - 👨‍💻 Alguns dos meus projetos estão aqui no **[Meu Portfólio](https://ilanaragao.github.io/)**;
 
@@ -21,15 +21,19 @@
 
 ## 🚀 Linguagens e Frameworks (loading ..)
 
-<p align="left"> 
-    <a href="https://reactjs.org/"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+<p align="left">
+    <a href="https://git-scm.com/"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
     <a href="https://www.w3.org/html/"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+    <a href="https://www.w3schools.com/css/"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
+    <a href="https://reactjs.org/"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+    <a href="https://getbootstrap.com"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
+    <a href="https://tailwindcss.com/"> <img src="img/tailwind-css.svg" alt="tailwind"/> </a>
+    <a href="https://www.typescriptlang.org/"> <img src="img/typescript.svg" alt="typescript"/> </a>
+    <a href="https://www.docker.com/"> <img src="img/docker.svg" alt="docker"/> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a style="padding-right:3px;" href="https://www.mysql.com/"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://git-scm.com/"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a href="https://www.mongodb.com/"> <img src="img/mongodb.svg" alt="mongodb"/> </a>
     <a href="https://expressjs.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
 
