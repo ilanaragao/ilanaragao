@@ -33,8 +33,8 @@
     <a href="https://www.typescriptlang.org/"> <img src="img/typescript.svg" alt="typescript"/> </a>
     <a href="https://www.docker.com/"> <img src="img/docker.svg" alt="docker"/> </a> 
     <a href="https://nodejs.org"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
-    <a href="https://expressjs.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-    <a style="padding-left:2px;" href="https://www.mysql.com/"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+    <a style="padding-left:3px;" href="https://expressjs.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+    <a style="padding-left:4px;" href="https://www.mysql.com/"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://www.mongodb.com/"> <img src="https://img.icons8.com/color/44/000000/mongodb.png"/> </a>
 </p>
 
