@@ -1,4 +1,4 @@
-<a href="#"><img width="50%" height="auto" src="img/illustration.png" height="175px"/></a>
+<a href="#"><img width="25%" height="auto" src="img/illustration.png" height="175px"/></a>
 
 <h3 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> Bem vindo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"></h3>
 <div align="center">
