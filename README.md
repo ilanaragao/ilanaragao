@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="img/developer_m.png" height="175px"/></a>
 
 <h3 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> Bem vindo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"></h3>
 <div align="center">
@@ -46,12 +46,12 @@
   <br/>
   <b>Nota:</b> Os idiomas mais usados são apenas uma métrica da composição dos meus códigos públicos e não refletem minha experiência ou o nível de habilidade.
 
-
 <br/>
 
 ![Snake animation](https://github.com/ilanaragao/ilanaragao/blob/output/github-contribution-grid-snake.svg)
 
 ## 🔎 Conecte-se comigo
+
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/ilanaragao/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
@@ -60,10 +60,10 @@
 <a href = "https://www.youtube.com/channel/UCuhR7Kms0FGmbOiWdDQ0IAA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 <a href = "https://www.buymeacoffee.com/ilanaragao"><img src="img/buymeacoffee_logo_icon_170431.png"/></a>
 
-
 </p>
 
 ## ❤ Views and Followers
+
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter" >
     <img src="https://komarev.com/ghpvc/?username=ilanaragao">
 </a>
