@@ -24,23 +24,25 @@
 ## 🚀 Linguagens e Frameworks (loading ..)
 
 <p align="left">
-    <a href="https://git-scm.com/"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
     <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
-    <a href="https://www.w3.org/html/"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
-    <a href="https://reactjs.org/"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
     <a href="https://mochajs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a>
+    <a href="https://mochajs.org" target="_blank"> <img src="img/chai-seeklogo.com.svg" alt="mocha" width="40" height="40"/> </a>
+    <a href="https://www.npmjs.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/npm.png"/> </a>
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-    <a href="https://tailwindcss.com/"> <img src="img/tailwind-css.svg" alt="tailwind"/> </a>
-    <a href="https://www.heroku.com/"> <img src="https://img.icons8.com/color/42/000000/heroku.png"/> </a>
-    <a href="https://www.typescriptlang.org/"> <img src="img/typescript.svg" alt="typescript"/> </a>
+    <a href="https://tailwindcss.com/" target="_blank"> <img src="img/tailwind-css.svg" alt="tailwind"/> </a>
+    <a href="https://www.heroku.com/" target="_blank"> <img src="https://img.icons8.com/color/42/000000/heroku.png"/> </a>
+    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="img/typescript.svg" alt="typescript"/> </a>
     <a href="https://www.docker.com/" target="_blank"> <img src="img/docker.svg" alt="docker" width="40" height="40"/>
-    <a href="https://nodejs.org"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
-    <a style="padding-left:3px;" href="https://expressjs.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-    <a style="padding-left:5px;" href="https://www.mysql.com/"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://www.mongodb.com/"> <img src="https://img.icons8.com/color/44/000000/mongodb.png"/> </a>
+    <a href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
+    <a style="padding-left:3px;" href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+    <a style="padding-left:5px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/44/000000/mongodb.png"/> </a>
 </p>
 
 ## 📊 Meu Status Github
