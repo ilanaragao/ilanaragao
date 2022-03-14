@@ -21,7 +21,7 @@
 
 - ⚡ Curiosidades: **metade gamer, metade rato de academia e <ins>100% família</ins>**.
 
-## 🚀 Linguagens e Frameworks (loading ..)
+## 🚀 Linguagens e Ferramentas (loading ..)
 
 <p align="left">
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
