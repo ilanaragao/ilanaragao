@@ -46,6 +46,7 @@
     <a href="https://sequelize.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" alt="sequelize" width="40" height="40"/> </a>
     <a style="padding-left:5px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/44/000000/mongodb.png"/> </a>
+    <a href="https://jwt.io/" target="_blank"> <img src="img/icons8-json-web-token-44.png" alt="jwt"/> </a>
 </p>
 
 ## 📊 Meu Status Github
