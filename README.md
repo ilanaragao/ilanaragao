@@ -19,7 +19,7 @@
 
 - 📫 Você pode me contatar em **ilan_aragao@hotmail.com**;
 
-- ⚡ Curiosidades: **• em transição de carreira • a.k.a 'zão' • <ins>100% família</ins>**.
+- ⚡ Curiosidades: **em transição de carreira; mais conhecido como '<ins>zão</ins>'**.
 
 ## 🚀 Linguagens e Ferramentas (loading ..)
 
