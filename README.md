@@ -55,7 +55,7 @@
     <img alt="Ilan Aragão's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ilanaragao&theme=blueberry&show_icons=true" /></a>
   <img alt="Ilan Aragão's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilanaragao&layout=compact&theme=blueberry" /></a>
   <br/>
-  <b>Nota:</b> Os idiomas mais usados são apenas uma métrica da composição dos meus códigos públicos e não refletem minha experiência ou o nível de habilidade.
+  <b>Nota:</b> As linguagens mais usadas são apenas uma métrica da composição dos meus códigos públicos e não refletem minha experiência ou o nível de habilidade.
 
 <br/>
 
