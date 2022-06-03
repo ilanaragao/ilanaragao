@@ -2,7 +2,7 @@
   <img width="35%" height="auto" src="img/illustration.png">
 </p>
 
-<h3 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px"> Bem vindo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px"></h3>
+<h3 align="center">- Bem vindo -</h3>
 <div align="center">
   <a href="https://ilanaragao.github.io/">
   <img src="https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=22&lines=Eu%20sou%20o%20Ilan%20Aragão&center=true&width=300&height=55" />
