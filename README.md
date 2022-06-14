@@ -13,7 +13,7 @@
 
 - 🔭 Atualmente estudante da **[Trybe](https://www.betrybe.com/)**;
 
-- 🌱 Aprendendo sobre <ins>Desenvolvimento Web</ins>, com foco no **back-end**;
+- 🌱 Aprendendo sobre <ins>Desenvolvimento Web</ins>, **full-stack**;
 
 - 👨‍💻 Alguns dos meus projetos estão aqui no **[Meu Portfólio](https://ilanaragao.github.io/)**;
 
