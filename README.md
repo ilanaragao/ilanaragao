@@ -11,15 +11,13 @@
 
 ## 🙋‍♂️ Sobre mim
 
-- 🔭 Atualmente estudante da **[Trybe](https://www.betrybe.com/)**;
-
-- 🌱 Aprendendo sobre <ins>Desenvolvimento Web</ins>, **full-stack**;
+- 🌱 Desenvolvedor Web **Full Stack** formado pela [Trybe](https://www.betrybe.com/);
 
 - 👨‍💻 Alguns dos meus projetos estão aqui no **[Meu Portfólio](https://ilanaragao.github.io/)**;
 
 - 📫 Você pode me contatar em **ilan_aragao@hotmail.com**;
 
-- ⚡ Curiosidades: **em transição de carreira; mais conhecido como '<ins>zão</ins>'**.
+- ⚡ Curiosidades: formado em engenharia ambiental; mais conhecido como **'<ins>zão</ins>'**.
 
 ## 🚀 Linguagens e Ferramentas (loading ..)
 
