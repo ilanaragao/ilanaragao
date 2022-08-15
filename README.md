@@ -37,6 +37,8 @@
     <a href="https://www.chaijs.com/" target="_blank"> <img src="img/chai-seeklogo.com.svg" alt="chai" width="40" height="40"/> </a>
     <a style="padding-left:5px;" href="https://sinonjs.org/" target="_blank"> <img src="img/sinon.png" alt="sinon" width="40" height="40"/> </a>
     <a style="padding-left:5px;" href="https://www.npmjs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/> </a>
+    <a href="https://styled-components.com/" target="_blank"> <img src="img/1_7jRD5QhgARucFKvRHFxpOg.png" alt="styled-components" width="40" height="40"/> </a>
+    <a href="https://mui.com/pt/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="material ui" width="40" height="40"/> </a>
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
     <a href="https://tailwindcss.com/" target="_blank"> <img src="img/tailwind-css.svg" alt="tailwind"/> </a>
     <a href="https://www.heroku.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="35" height="40"/> </a>
