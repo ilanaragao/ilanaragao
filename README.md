@@ -17,7 +17,7 @@
 
 - 📫 Você pode me contatar em **ilan_aragao@hotmail.com**;
 
-- ⚡ Curiosidades: formado em engenharia ambiental; mais conhecido como **'<ins>zão</ins>'**.
+- ❤️ Curiosidade: Engenheiro Ambiental por vocação, **'<ins>tech</ins>'** por amor.
 
 ## 🚀 Linguagens e Ferramentas (loading ..)
 
