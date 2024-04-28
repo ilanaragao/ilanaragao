@@ -60,7 +60,7 @@
 
 <br/>
 
-![snake svg](https://github.com/ilanaragao/ilanaragao/blob/output/github-contribution-grid-snake.svg)
+![snake svg](https://github.com/ilanaragao/ilanaragao/blob/output/github-snake-dark.svg?palette=github-dark)
 
 ## 🔎 Conecte-se comigo
 
