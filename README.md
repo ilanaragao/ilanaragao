@@ -11,7 +11,7 @@
 
 ## 🙋‍♂️ Sobre mim
 
-- 🌱 Desenvolvedor **Back-End** formado pela [Trybe](https://www.betrybe.com/);
+- 🌱 Desenvolvedor **Full Stack** formado pela [Trybe](https://www.betrybe.com/);
 
 - 👨‍💻 Alguns dos meus projetos estão aqui no **[Meu Portfólio](https://ilanaragao.github.io/)**;
 
