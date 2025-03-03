@@ -42,6 +42,8 @@
     <a href="https://tailwindcss.com/" target="_blank"> <img src="img/tailwind-css.svg" alt="tailwind"/> </a>
     <a href="https://www.heroku.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="35" height="40"/> </a>
     <a href="https://www.typescriptlang.org/" target="_blank"> <img src="img/typescript.svg" alt="typescript"/> </a>
+    <a href="https://www.java.com/" target="_blank"> <img src="img/icons8-logo-java-coffee-cup-400.png" alt="java" width="40" height="40"/> </a>
+    <a href="https://spring.io/" target="_blank"> <img src="img/icons8-logotipo-da-primavera-400.png" alt="spring" width="40" height="40"/> </a>
     <a style="padding-left:5px; padding-right:3px;" href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="45"/>
     <a href="https://aws.amazon.com/" target="_blank"> <img src="https://img.icons8.com/color/48/amazon-web-services.png" alt="aws"/>  </a>
     <a style="padding-left:5px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="node"/> </a>
